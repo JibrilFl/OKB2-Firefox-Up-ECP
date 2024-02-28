@@ -1,0 +1,10 @@
+h1 {
+  font-style: italic;
+}
+
+.btn {
+  width: 100px;
+  height: 20px;
+  display: block;
+  cursor: pointer;
+}
